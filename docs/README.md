@@ -11,9 +11,9 @@ Equipe:
 - [Luiz](https://github.com/LuizBlume)
 - [Luna](https://github.com/LunaBolsoni)
 
--   [Documentação (esse documento)](https://github.com/TremboGuys/eatly/blob/main/docs/README.md)
--   Backend: [Repositório] e [Publicação]
--   [Frontend](https://github.com/TremboGuys/eatly_frontend)
+- [Documentação (esse documento)](https://github.com/TremboGuys/eatly/blob/main/docs/README.md)
+- Backend: [Repositório] e [Publicação]
+- [Frontend](https://github.com/TremboGuys/eatly_frontend)
 
 # 1. Desenvolvimento
 
