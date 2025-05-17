@@ -10,6 +10,7 @@ Equipe:
 - [Lucas](https://github.com/dnzlucas)
 - [Luiz](https://github.com/LuizBlume)
 - [Luna](https://github.com/LunaBolsoni)
+- [Sara](https://github.com/SaraKozoski)
 
 - [Documentação (esse documento)](https://github.com/TremboGuys/eatly_docs/blob/main/docs/README.md)
 - Backend: [Repositório] e [Publicação]
