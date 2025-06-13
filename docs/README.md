@@ -13,8 +13,8 @@ Equipe:
 - [Sara](https://github.com/SaraKozoski)
 
 - [Documentação (esse documento)](https://github.com/TremboGuys/eatly_docs/blob/main/docs/README.md)
-- Backend: [Repositório] e [Publicação]
-- [Frontend](https://github.com/TremboGuys/eatly_frontend)
+- Backend: [Repositório](https://github.com/TremboGuys/eatly_frontend) e [Publicação]
+- Frontend: [Repositório](https://github.com/TremboGuys/eatly_frontend) e [Publicação](https://eatly-frontend-trza.onrender.com)
 
 # 1. Desenvolvimento
 
